@@ -5,7 +5,7 @@
                revision="Qc" />
 
   <project path="build/make" name="build" groups="pdk" remote="cbosp" />
-  <project path="build/soong" name="build_song" groups="pdk" remote="cbosp" />
+  <project path="build/soong" name="build_soong" groups="pdk" remote="cbosp" />
   <project path="frameworks/base" name="frameworks_base" groups="pdk" remote="cbosp" />
   <project path="manifest" name="manifest" groups="pdk" remote="cbosp" />
 </manifest>
